@@ -1,7 +1,4 @@
 # News-Summarizer
-# InNews🇮🇳: News Summarizer App
-
-## [Demo of App](https://share.streamlit.io/spidy20/innews/App.py)
 
 ## Source
 - For summarizing the news I have used [Newspaper3k](https://newspaper.readthedocs.io/en/latest/)
